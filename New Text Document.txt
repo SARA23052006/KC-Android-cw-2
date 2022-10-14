@@ -1,0 +1,21 @@
+public class Main
+{
+	public static void main(String[] args) {
+
+	String name ="sara";
+                  System.out.println(" Hi My NAME IS " +name) ;
+                  
+                 //
+                
+                  int  h=165;
+                  
+                  if (h <160 ) {
+                      
+                      System .out.println("hello world");
+
+
+                  }
+                  
+                  
+	}
+}
