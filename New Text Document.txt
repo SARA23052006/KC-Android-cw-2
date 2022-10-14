@@ -1,8 +1,8 @@
 public class Main
 {
 	public static void main(String[] args) {
-
-	String name ="sara";
+	    
+	    	String name ="sara";
                   System.out.println(" Hi My NAME IS " +name) ;
                   
                  //
@@ -11,11 +11,16 @@ public class Main
                   
                   if (h <160 ) {
                       
-                      System .out.println("hello world");
+                      System .out.println("you can not enter the game ");
 
 
-                  }
+                  } else if (h >160 ) {
                   
+                  System .out.println("you can enter the game ");
                   
+}
+	
+
 	}
 }
+
